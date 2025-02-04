@@ -5,10 +5,17 @@ a {text-decoration:none;}
   width: 90%;
 }
 
+body {
+  font-size: 13pt;
+  max-width: 1200px;
+  margin:0 auto;
+}
+
 nav, footer, #headerline {
   background-color: gainsboro;
   color: Black;
   text-align: center;
+  font-size: 14pt;
 }
 
 nav {
