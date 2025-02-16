@@ -6,7 +6,8 @@ a {text-decoration:none;}
 }
 
 body {
-  font-size: 13pt;
+  font-family: 'arial', sans-serif;
+  font-size: 12pt;
   max-width: 1200px;
   margin:0 auto;
 }
@@ -15,7 +16,7 @@ nav, footer, #headerline {
   background-color: gainsboro;
   color: Black;
   text-align: center;
-  font-size: 14pt;
+  font-size: 12pt;
 }
 
 nav {
